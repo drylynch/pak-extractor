@@ -21,3 +21,5 @@ compile.py path_to_pak path_to_files [-out dir]
 ```
 
 ```path_to_pak``` can be a .pak file, or a dir of .pak files. ```-out``` allows custom output dir.
+
+(```pakstuff.py``` required for both files)
